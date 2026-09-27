@@ -1,2 +1,3 @@
 welcome to NM college
 welcome to NM college
+This file contains a greeting message.
